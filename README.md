@@ -68,7 +68,15 @@ alt="HTML"
 title="HTML"
 width="35px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-</br>
-</br>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+/>
 
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="35px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
+/>
+          
