@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Gosto de entender como as coisas funcionam e transformar processos ruins em algo mais claro e organizado. Nos últimos meses venho trabalhando em uma automação via WhatsApp, o que tem me ajudado a desenvolver uma visão mais prática sobre integrações, fluxo de informações e construção de soluções que realmente fazem sentido. Trabalho com foco em eficiência, aprimorando minhas soluções para garantir resultados sólidos e bem estruturados.
+Gosto de entender como as coisas funcionam e transformar processos mal otimizados em algo mais claro e organizado. Nos últimos meses venho trabalhando em uma automação via WhatsApp, o que tem me ajudado a desenvolver uma visão mais prática sobre integrações, fluxo de informações e construção de soluções que realmente fazem sentido. Trabalho com foco em eficiência, aprimorando minhas soluções para garantir resultados sólidos e bem estruturados.
 
 ---
 
