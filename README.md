@@ -68,7 +68,7 @@ alt="HTML"
 title="HTML"
 width="35px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
 />
 
 <img
